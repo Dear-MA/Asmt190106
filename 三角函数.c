@@ -1,4 +1,4 @@
-//////Èý½Çº¯Êý//////
+//////ä¸‰è§’å‡½æ•°//////
 #include<stdio.h>
 #include<math.h>
 int main()
